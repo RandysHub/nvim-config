@@ -14,6 +14,10 @@ return {
     dependencies = "nvim-lua/plenary.nvim",
   },
 
+  {
+    "github/copilot.vim",
+  },
+
   -- add gruvbox
   { "ellisonleao/gruvbox.nvim" },
 
